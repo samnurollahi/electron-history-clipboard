@@ -1,0 +1,15 @@
+{
+  "name": "historyclipboard",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "sam",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ./src/app.js"
+  },
+  "dependencies": {
+    "electron": "^39.2.3"
+  }
+}
