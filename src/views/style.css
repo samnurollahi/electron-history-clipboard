@@ -1,0 +1,24 @@
+@font-face {
+  font-family: vazir;
+  src: url(font/vazir.woff);
+}
+
+.font-vazir {
+  font-family: vazir !important;
+}
+
+h1 {
+  font-size: 19px;
+  text-align: center;
+}
+.item-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.material-symbols-outlined {
+  user-select: none;
+  -moz-user-select: none;
+  cursor: pointer;
+  color: rgb(59, 59, 233);
+}
